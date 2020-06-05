@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">TP_IMC</string>
+    <string name="validButtonText">Valider</string>
+    <string name="firstNamePlaceHolder">Prénom : </string>
+    <string name="namePlaceHolder">Nom : </string>
+    <string name="titreMainActivity">CALCUL DE VOTRE IMC</string>
+    <string name="poidsTextView">Poids (kg) : </string>
+    <string name="tailleTextView">Taille (cm) : </string>
+    <string name="strHistorique">Voir historique</string>
+    <string name="historique_des_imc">Historique des IMC</string>
+    <string name="strDeleteHistorique">Effacer historique</string>
+</resources>
+
